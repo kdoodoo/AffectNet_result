@@ -1,7 +1,7 @@
 # Label quality in AffectNet: results of crowd-based re-annotation
 The 6th Asian Conference on Pattern Recognition – ACPR 2021 (Accepted, Oral Presentation)
 <br/><br/><br/>
-**This repository contains the models from the  [paper](https://arxiv.org/abs/2110.04476) above.**
+**This repository contains the Tensorflow .h5 models from the  [paper](https://arxiv.org/abs/2110.04476) above.**
 
 
 # AffectNet Models
