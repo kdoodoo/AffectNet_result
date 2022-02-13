@@ -1,7 +1,12 @@
-# AffectNet_result
+# Label quality in AffectNet: results of crowd-based re-annotation
+The 6th Asian Conference on Pattern Recognition – ACPR 2021 (Accepted, Oral Presentation)
 
-Models
-Pre-trained models can be downloaded for evaluation as following:
+# Note 
+This repository contains the models from the  [paper](https://arxiv.org/abs/2110.04476) above. 
+
+
+# AffectNet Models
+Pre-trained models can be downloaded:
 | Model  | Download |
 | ------------- | ------------- |
 | Resnet50 Model - 8 Class 50 Epoch |  [Link](https://drive.google.com/file/d/1gEWxz_wrcGty8M5YoV4aoT5tv0JrCSPc/view?usp=sharing)   |
