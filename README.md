@@ -22,4 +22,6 @@ Happiness, Contempt, Sadness, Disgust, Neutral, Surprise, Angry, Fear
 **Arousal and Valence**
 | Model  | Loss| Download |
 | ------------- | ------------- |------------- |
-| Resnet50 Model - Arousal and Valence  |Arousal -0.0167, Valence - 0.0177 |[Link](https://drive.google.com/file/d/1g7PIZTcqjUKwv6NCDKtxwGVpAFP8m9qz/view?usp=sharing)   |
+| Resnet50 Model - Arousal   |0.0167 |[Link](https://drive.google.com/file/d/1GeysixjuYAm4Ys1sBZZnK8qtqblyHgXf/view?usp=sharing)   |
+| Resnet50 Model -  Valence  | 0.0177 |[Link](https://drive.google.com/file/d/1I959MpqDbP62Kt5Esb1PmQZ2xCXQ6XKo/view?usp=sharing)   |
+
